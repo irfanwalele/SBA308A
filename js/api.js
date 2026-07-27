@@ -1,5 +1,6 @@
+import { API_KEY } from "./config.js";
+
 const API_URL = "https://api.thecatapi.com/v1";
-const API_KEY = "live_hi6gflWuCSuOAXT9Vb21gbSKojIYHdvwmJBcKmKJfywBJaCvQzycQsWkiygGwDrv";
 
 const headers = {
   "Content-Type": "application/json",
