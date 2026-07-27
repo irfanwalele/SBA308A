@@ -3,7 +3,7 @@ const API_KEY = "live_hi6gflWuCSuOAXT9Vb21gbSKojIYHdvwmJBcKmKJfywBJaCvQzycQsWkiy
 
 const headers = {
   "Content-Type": "application/json",
-  "x-api-key": live_hi6gflWuCSuOAXT9Vb21gbSKojIYHdvwmJBcKmKJfywBJaCvQzycQsWkiygGwDrv
+  "x-api-key": API_KEY
 };
 
 // GET all cat breeds
